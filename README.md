@@ -10,6 +10,9 @@ Defense level vs. economic loss
 Global risk distribution
 Country-level COVID statistics (cases, deaths, survival rate, infection ratio, etc.)
 Two interactive Tableau dashboards were designed to explore these insights visually.
+
+
+
 📂 Dataset
 The dataset used in this project:
 covid19.xlsx
