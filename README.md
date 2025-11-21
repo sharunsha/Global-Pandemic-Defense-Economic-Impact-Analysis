@@ -1,5 +1,5 @@
 # Global-Pandemic-Defense-Economic-Impact-Analysis
-Interactive Power BI dashboard assessing country-level defense vulnerability using attack–recovery risk metrics.
+Interactive Tableau dashboard assessing country-level defense vulnerability using attack–recovery risk metrics.
 Global Pandemic Impact Analysis (Tableau Project)
 Overview
 This project analyzes how different countries were impacted during global pandemic conditions.
